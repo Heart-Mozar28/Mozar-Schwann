@@ -1,1 +1,8 @@
-cum
+#Title: "The Math Challenge" by Mozar, Markeila Heart.V
+#tell us about your project. This project entitled; "The Math Challenge", is a fun way to challenge and test your knowledge, critial thinking, reflexes, and more. It is a test to see how fast the player can answer 10 simple math questions.
+#How does your code work explain how it works: My project, generates 10 random math questions using only the given range of numbers and the operands; plus(+), minus(-), and multiplication(*).
+To test the players critical thinking, my code times the duration from when the first question apears on the screen until they answer all 10 questions correctly.
+Introduced by a series of ecouraging words, the questions are displayed one by one. However, the game will only allow the player to proceed to the next question after they correctly answer the current question.
+If not, the code will repeat the question that was answered wrong, and will continue to do so until the player gets it right. Allowing the players to reflect and find out what they got right and ammend their mistake.
+After the player answers all 10 questions correctly, the code will display yet another series of encouraging words and the total amount of time it took the player to answer the questions.
+My code may be long and have several texts in which all of it is my own preference and when I run the code, one cannot help but feel amused, fullfiled, or the occasional dissapointment.
